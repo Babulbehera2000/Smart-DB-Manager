@@ -175,7 +175,7 @@ Add screenshots for:
 
 ## 👨‍💻 Author
 
-**Babul Behera (BK)**
+**Babul Behera (BK) and Team**
 
 BSc ITM, Ravenshaw University
 
